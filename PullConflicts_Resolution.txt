@@ -1,0 +1,9 @@
+
+Cannot pull into a repository with state: MERGING
+1) Right click on project -> Team -> Reset -> [Reset popup will open]
+2) By Default Local Repo will be selected -
+Reset to: refs/head/master
+Reset Type: Mixed (HEAD and index updated)
+3) Click on Reset
+4) Right click on project -> Team -> Git Pull
+5) Right click on project -> Team -> Push to upstream
